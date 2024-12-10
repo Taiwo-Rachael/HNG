@@ -1,5 +1,5 @@
 # HNG TASKS REPOSITORY
-This repository contains the tasks I have undertaken in the course of my internship at HNG Tech so far. Notebooks for three (3) projects can be found here.
+This repository contains some of the tasks I undertook in the course of my internship at HNG Tech. Notebooks for three (3) projects can be found here.
 
 # EXPLORATORY ANALYSIS OF THE IRIS DATASET
 The first project showcases an exploratory data analysis of the Iris dataset, carried out using Python.  Some interesting insights were drawn from 3 species of Iris flowers, the Iris Setosa, Virginica and Versicolor.
